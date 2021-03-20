@@ -2,10 +2,8 @@
 
 main ()
 {
-	printf("Hello world,\nhelloooo woooorld !\n"); //вывод на экран
+	printf("Hello world,\nhelloooo woooorld !\n"); //РІС‹РІРѕРґ РЅР° СЌРєСЂР°РЅ
 	printf("Hello, C!");
-	getch(); /* ожидаем нажатия 
-	многострочный комментарий
-		Enter */
+	getch(); /* РѕР¶РёРґР°РµРј РЅР°Р¶Р°С‚РёСЏ enter	
   return 0;		
 }
